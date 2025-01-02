@@ -1,6 +1,6 @@
-# 👋 Hi there! My name is **Phong Hà**
+# 👋 Hi there! My name is **Phong Ha**
 
-✨ Với nền tảng kiến thức và kinh nghiệm trong quản lý dự án, thiết kế UI/UX, cùng khả năng phát triển phần mềm, tôi mong muốn trở thành một chuyên gia trong lĩnh vực công nghệ thông tin, đóng góp vào việc xây dựng các sản phẩm sáng tạo và tối ưu hóa trải nghiệm người dùng. Đồng thời, tôi luôn sẵn sàng học hỏi và trau dồi kỹ năng để mang lại giá trị bền vững cho tổ chức, hướng đến các mục tiêu phát triển dài hạn.
+✨ With a background of knowledge and experience in project management, UI/UX design, and software development capabilities, I aspire to become an expert in the field of information technology, contributing to the construction of innovative products and optimizing user experiences. At the same time, I am always ready to learn and improve my skills to bring sustainable value to the organization, aiming at long-term development goals.
 
 ---
 
@@ -8,7 +8,7 @@
 - 🌏 **Living and creating in the heart of Việt Nam**
 - 📸 **Portfolio**: [Instagram](https://instagram.com/)  
 - ✉️ **Contact me**: [PhongHa.PM@gmail.com](mailto:PhongHa.PM@gmail.com)  
-- 🎓 **Currently learning at**: Đại học Công Thương TP.HCM  
+- 🎓 **Currently learning at**: Ho Chi Minh City University of Industry and Trade  
 
 ---
 
@@ -24,21 +24,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Công cụ thiết kế
+### Design tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 
 
-### Công cụ quản lý dự án
+### Project management tools
 ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=microsoft&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
-### Công cụ lập trình và phát triển phần mềm
+### Software development and programming tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
