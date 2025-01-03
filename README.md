@@ -8,9 +8,10 @@
 - 🌏 **Living and creating in the heart of VietNam**
 - 📸 **Portfolio**: [Instagram](https://instagram.com/)  
 - ✉️ **Contact me**: [PhongHa.PM@gmail.com](mailto:PhongHa.PM@gmail.com)  
-- 🎓 **Currently learning at**: Ho Chi Minh City University of Industry and Trade  
+- 🎓 **Currently learning at**: Ho Chi Minh City University of Industry and Trade
 
 ---
+
 
 ## 🛠 Skills
 ### **Programming Languages**
