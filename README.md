@@ -2,7 +2,6 @@
 
 ✨ With a background of knowledge and experience in project management, UI/UX design, and software development capabilities, I aspire to become an expert in the field of information technology, contributing to the construction of innovative products and optimizing user experiences. At the same time, I am always ready to learn and improve my skills to bring sustainable value to the organization, aiming at long-term development goals. 
 
-
 ---
 
 ## 🌍 About Me
