@@ -1,5 +1,5 @@
 # 👋 Hi there! My name is **Phong Ha**
-✨ With a strong foundation in project management, UI/UX design, and software development, I aspire to become an expert in the field of information technology. I aim to contribute to the creation of innovative products and enhance user experiences. At the same time, I am always eager to learn and refine my skills to bring sustainable value to the organization, with a focus on long-term growth.
+✨ With a strong foundation in project management, UI/UX design, and software development, I aspire to become an expert in the field of information technology. I aim to contribute to the creation of innovative products and enhance user experiences. At the same time, I am always eager to learn and refine my skills to bring sustainable value to the organization, with a focus on long-term growth. 
 
 ---
 
