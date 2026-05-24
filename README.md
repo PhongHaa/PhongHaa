@@ -120,94 +120,12 @@ User needs  →  UX flow  →  UI system  →  Prototype  →  Frontend implemen
 
 ---
 
-## 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📚 Document Library & Test Creation</h3>
-      <p><b>Role:</b> UI/UX Designer · Business Analyst · Frontend Contributor</p>
-      <p>A cross-platform Web & Mobile application for HUIT students to access learning materials, create practice tests, and interact with chatbot-supported smart search.</p>
-      <p><b>Highlights:</b> Requirement analysis, end-to-end UI/UX, wireframes, interactive prototypes, usability improvements, frontend/backend collaboration.</p>
-      <p><b>Tech:</b> ReactJS, NodeJS, ExpressJS, Flutter, Firebase, OpenAI API, RAG model.</p>
-    </td>
-    <td width="50%">
-      <h3>🛒 E-commerce & Billiards Management</h3>
-      <p><b>Role:</b> Team Leader · UI/UX Designer · BA · Developer</p>
-      <p>An e-commerce website for bedding products and a desktop application for billiards club operations such as table reservation, playtime tracking, revenue, and customer management.</p>
-      <p><b>Highlights:</b> Team planning, progress management, UI/UX design, frontend/backend support, testing, and performance optimization.</p>
-      <p><b>Tech:</b> HTML, CSS, JavaScript, Bootstrap, ASP.NET Core, C# WinForms, SQL Server.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏠 SGHouses.vn</h3>
-      <p><b>Type:</b> Real Estate Website</p>
-      <p>Designed clean and responsive real estate interfaces focused on property discovery, trust-building, and smooth browsing experiences.</p>
-    </td>
-    <td width="50%">
-      <h3>🥗 Viet Chay</h3>
-      <p><b>Type:</b> Vegan Food Mobile App</p>
-      <p>Created mobile app UI/UX for food discovery and ordering with a focus on usability, visual clarity, and simple navigation flow.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 MMO Web Platform</h3>
-      <p><b>Type:</b> Web Platform</p>
-      <p>Designed user-centered interfaces for a platform requiring clear flows, interaction states, and responsive layouts.</p>
-    </td>
-    <td width="50%">
-      <h3>🎓 FunnyCode.vn</h3>
-      <p><b>Type:</b> Online Course Selling Website</p>
-      <p>Designed education-focused pages to support course browsing, content presentation, and conversion-oriented user journeys.</p>
-    </td>
-  </tr>
-</table>
 
----
 
-## 🎓 Education, Certifications & Honors
 
-- 🎓 **Industrial University of Ho Chi Minh City** — Information Technology Graduate
-- 🧾 **UI/UX Design** — Coursera
-- 🧾 **Business Analysis Foundations** — LinkedIn Learning
-- 🧾 **Business Analysis & Process Management** — Coursera
-- 🧾 **PMP Basics** — Simplilearn
-- 🧾 **Fundamentals of Agile Project Management** — Kickoff
-- 🏅 **Encouragement Prize** — Student Scientific Research Contest, Academic Year 2024 - 2025
 
----
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PhongHaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Phong Ha GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhongHaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=PhongHaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhongHaa&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🌱 Currently Improving
-
-- Advanced UI/UX design systems and scalable component thinking
-- Frontend development with responsive and component-based UI
-- Product requirement analysis and UX documentation
-- Usability testing, interaction design, and design-to-code workflow
-
----
 
 <div align="center">
 
