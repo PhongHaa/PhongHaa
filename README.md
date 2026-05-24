@@ -101,31 +101,6 @@ User needs  →  UX flow  →  UI system  →  Prototype  →  Frontend implemen
 
 ---
 
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="28%"><b>SALTO Vietnam</b><br/><sub>UI/UX Designer & Frontend Developer<br/>May 2025 - Present</sub></td>
-    <td>
-      Design user-centered interfaces, build responsive frontend experiences, create wireframes/prototypes/design systems, and collaborate with teams to turn product requirements into usable digital products.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Freelance Projects</b><br/><sub>UI/UX Designer & Frontend Developer<br/>2024 - Present</sub></td>
-    <td>
-      Designed and supported frontend implementation for responsive web and mobile interfaces across real estate, education, food delivery, gaming/MMO platforms, and internal management systems.
-    </td>
-  </tr>
-</table>
-
----
-
-
-
-
-
-
-
 
 <div align="center">
 
