@@ -3,14 +3,6 @@
 
 ---
 
-## 🌍 About Me
-- 🌏 **Living and creating in the heart of VietNam**
-- 📸 **Portfolio**: [Instagram](https://www.instagram.com/sixuiux/)
-- ✉️ **Contact me**: [PhongHa.Designer@gmail.com](mailto:PhongHa.Designer@gmail.com)
-- 🎓 **Currently learning at**: Ho Chi Minh City University of Industry and Trade
-
----
-
 ## 🛠 Skills
 
 ### 👨‍💻 Programming Languages
