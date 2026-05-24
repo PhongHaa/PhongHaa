@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:610BEF,100:8A2BE2&height=180&section=header&text=Phong%20Ha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UI%2FUX%20Designer%20%7C%20IT%20Student%20%7C%20Product-minded%20Creator&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:610BEF,100:8A2BE2&height=180&section=header&text=Phong%20Ha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UI%2FUX%20Designer&descAlignY=58&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=820&lines=Designing+clean%2C+usable%2C+and+human-centered+interfaces;Turning+ideas+into+flows%2C+wireframes%2C+prototypes%2C+and+products;Combining+UI%2FUX+Design+%2B+Business+Analysis+%2B+Frontend+Thinking" alt="Typing SVG" />
 
