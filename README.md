@@ -50,54 +50,73 @@ User needs  →  UX flow  →  UI system  →  Prototype  →  Frontend implemen
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Professional Toolkit
 
-### 🎨 Design & Prototyping
+### 🎨 Product Design & UX
+
+![Product Design](https://img.shields.io/badge/Product%20Design-610BEF?style=for-the-badge)
+![UX Research](https://img.shields.io/badge/UX%20Research-7C3AED?style=for-the-badge)
+![User Flow](https://img.shields.io/badge/User%20Flow-8B5CF6?style=for-the-badge)
+![Information Architecture](https://img.shields.io/badge/Information%20Architecture-6D28D9?style=for-the-badge)
+![Wireframing](https://img.shields.io/badge/Wireframing-4C1D95?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Prototyping-9333EA?style=for-the-badge)
+![Interaction Design](https://img.shields.io/badge/Interaction%20Design-7E22CE?style=for-the-badge)
+![Design System](https://img.shields.io/badge/Design%20System-581C87?style=for-the-badge)
+![Component Library](https://img.shields.io/badge/Component%20Library-312E81?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge)
+![Usability Testing](https://img.shields.io/badge/Usability%20Testing-0F766E?style=for-the-badge)
+![Accessibility Design](https://img.shields.io/badge/Accessibility%20Design-047857?style=for-the-badge)
+![UX Writing](https://img.shields.io/badge/UX%20Writing-334155?style=for-the-badge)
+![Design Handoff](https://img.shields.io/badge/Design%20Handoff-111827?style=for-the-badge)
+
+### 🛠 Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![FigJam](https://img.shields.io/badge/FigJam-9747FF?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma Dev Mode](https://img.shields.io/badge/Figma%20Dev%20Mode-111827?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 💻 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-2563EB?style=for-the-badge)
+![Component Based UI](https://img.shields.io/badge/Component--Based%20UI-4F46E5?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API%20Integration-0F172A?style=for-the-badge)
 
-### 👨‍💻 Programming & Backend Basics
+### ⚙️ Frontend Engineering
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🗄 Database & Dev Tools
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-### 📋 Project Management
+### 🚀 Quality, Accessibility & Optimization
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Web Accessibility](https://img.shields.io/badge/Web%20Accessibility-047857?style=for-the-badge)
+![Web Performance](https://img.shields.io/badge/Web%20Performance-0F766E?style=for-the-badge)
+![SEO Basics](https://img.shields.io/badge/SEO%20Basics-111827?style=for-the-badge)
+![Cross Browser UI](https://img.shields.io/badge/Cross--Browser%20UI-334155?style=for-the-badge)
+![UI Testing](https://img.shields.io/badge/UI%20Testing-7C2D12?style=for-the-badge)
+![Design to Code](https://img.shields.io/badge/Design--to--Code%20Workflow-610BEF?style=for-the-badge)
 
 ---
 
