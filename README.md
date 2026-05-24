@@ -6,19 +6,6 @@
 
 <br />
 
-<a href="https://phongha.figma.site/">
-  <img src="https://img.shields.io/badge/Portfolio-phongha.figma.site-610BEF?style=for-the-badge&logo=figma&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:phongha.designer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-phongha.designer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/PhongHaa">
-  <img src="https://img.shields.io/badge/GitHub-PhongHaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br />
-<br />
-
 </div>
 
 ---
