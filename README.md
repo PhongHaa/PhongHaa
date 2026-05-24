@@ -116,12 +116,6 @@ User needs  →  UX flow  →  UI system  →  Prototype  →  Frontend implemen
       Designed and supported frontend implementation for responsive web and mobile interfaces across real estate, education, food delivery, gaming/MMO platforms, and internal management systems.
     </td>
   </tr>
-  <tr>
-    <td><b>Content / Ads</b><br/><sub>FP LAND & DUTEA</sub></td>
-    <td>
-      Managed advertising content, social media channels, seeding strategies, campaign performance, and market-driven content improvements.
-    </td>
-  </tr>
 </table>
 
 ---
