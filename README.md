@@ -19,10 +19,6 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=PhongHaa&label=Profile%20Views&color=610BEF&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer%20%26%20Frontend%20Developer-8A2BE2?style=flat-square" alt="Current Role" />
-<img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh%20City-111827?style=flat-square" alt="Location" />
-
 </div>
 
 ---
